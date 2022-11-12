@@ -6,5 +6,5 @@ public interface IShopCustomer
 {
     int GetCurrentGold();
 
-    bool TryBuyItem(Item item);
+    bool BuyItem(Item item);
 }

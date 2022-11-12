@@ -1,24 +1,30 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class Player_Customer : MonoBehaviour, IShopCustomer
+public class Player : MonoBehaviour, IShopCustomer, ICoinCollector
 {
+    public OutfitController outfit;
+
     int currentGold;
+
+    public void Collect()
+    {
+        currentGold++;
+    }
 
     public int GetCurrentGold()
     {
         return currentGold;
     }
 
-    public bool TryBuyItem(Item item)
+    public bool BuyItem(Item item)
     {
-        if (item.price > currentGold)
+        if (item.price > GetCurrentGold())
             return false;
         else
         {
             currentGold -= item.price;
             //Equip item
+            outfit.Equip(item);
             return true;
         }
     }

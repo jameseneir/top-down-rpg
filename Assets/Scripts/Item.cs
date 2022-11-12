@@ -1,15 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class Item
+[CreateAssetMenu(fileName ="New Item", menuName = "Hat Item")]
+public class Item : ScriptableObject
 {
-    public string name;
     public int price;
-
-    public Item(string name, int price)
-    {
-        this.name = name;
-        this.price = price;
-    }
+    public Sprite sprite;
 }

@@ -1,0 +1,2731 @@
+fileFormatVersion: 2
+guid: 06bab5cd7374241b5b0733d43f30aaff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bd54ce95ec84e15a3ae43cfb6c1065
+      internalID: 1955177500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cdae36860014ab0b3a8ec9b3a7538b
+      internalID: 822125614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d7dcf7d998440058a5675f00b693ed
+      internalID: 755567348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbc2a080d5b34721a95d9c50ebb2043
+      internalID: -1673044526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990486cfadb5746678f06321c72d63a8
+      internalID: 979602552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952ff845c483d487d8ea25012caa635b
+      internalID: -2023215462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e6368f260414e3687d170f9489a0f6
+      internalID: -1317099125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572f5227f6ad241208a4df16c4751111
+      internalID: 1790893314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349109d9df8a14822a87050b5b9a93ee
+      internalID: -1725406843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64886fdccecfa4092b10cb9d88dd855d
+      internalID: 1375610912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 207
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e36f4693d60f4547acecfbca78eab98
+      internalID: 1401608476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 206
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140fd57878b32425790fc0b9498869ac
+      internalID: 172584005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 207
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a379a86eca08640eabb3836983ad5b1d
+      internalID: 1483701364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 206
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badca472765f84c33984d0b6900b8f50
+      internalID: 173131126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 207
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59946213499244e529adaad26f335996
+      internalID: 1103338433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 206
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228602604ac1640e7b3391795a915aa1
+      internalID: -174654120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 206
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df6cd20acaf41fbb0db7d44143e322
+      internalID: 314186161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 205
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b79c060cd42e4191857f87612b2b52b
+      internalID: 866727965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 206
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90780b97270cd4942a2b1c37e9e9531a
+      internalID: 603484091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 205
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2184c0d6ae9f14d3d851cc61275b19bd
+      internalID: 1464049883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 206
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b103860c5a0434611944a7dae88e1311
+      internalID: -381705655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 205
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75950ae233b324cf7a88668feb9137bc
+      internalID: -304756499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 181
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c05302db103472a8a5dde25cfe6915
+      internalID: -1292035947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 177
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0bfb1985b48441bbcc3497123138f9
+      internalID: 123602160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 181
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9086838f6d64199b5903dd2bd58bc0
+      internalID: -1385076704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da053f223414d4cb9ad30342c807ba84
+      internalID: 1543357219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 181
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd17695376e62426c9f254a987dfcdf3
+      internalID: -373832116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 181
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e1680f0ae1748169d5d90a8ad2510d
+      internalID: 757169602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 180
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bb3c45fdba54133bca5235abebab6a
+      internalID: 2080533332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 176
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c157071d53147ad9327e6cf0776239
+      internalID: 502583737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 180
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd575655d6146fd93b9763434d9d3f
+      internalID: -1144596344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 176
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bb0ec4e1bfb45d1832a819c91591e7
+      internalID: -1540118635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 180
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0665a21a20fa423ab580f014e8f7e8f
+      internalID: -1202097465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_33
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 180
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bea94946b780445990b88cba7d812d3
+      internalID: 429690668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 159
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cde112153a1e47e993a9aca6ef899ba
+      internalID: 2082789396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_35
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 158
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c90c894b8a324714aef4abea7b50d16
+      internalID: 1207050388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_36
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 159
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ca6908fe167453087eb4a8fcbbbf49
+      internalID: -821313007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 158
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d91d7a5d08eb4be9a61bfa7df57cea4
+      internalID: 1133623778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 158
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2474339dbd7d44de582015e4fab994ad
+      internalID: -711246521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_39
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 158
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f983d88977db47cc8cdc2365e7882fd
+      internalID: 51598711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 157
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd0201bf9cd843e68a688d3d250a312
+      internalID: 2087934481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_41
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 156
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dfcc76d26d74bcd95a2506532d5591
+      internalID: 1718242197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_42
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 157
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3dc21578c7843839a7ce2c1cf26b7b
+      internalID: -2139692149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_43
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 156
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97086f435230461497dbc29bee50e66
+      internalID: 637874819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_44
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 155
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e187508dc294af296c33302555a717
+      internalID: 1245526471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_45
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 155
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5adbdeacb684ebdbd9e70cdb02329c
+      internalID: 1827331852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_46
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ce80e3776f444f6b4e7f6b1f7c2fa7
+      internalID: 141183926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_47
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 128
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab4de718d73c4136b49d3bdaa3674f8
+      internalID: 1001388296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 134
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2760730c3860a42c6b024074f0fc1c77
+      internalID: 1193717544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_49
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 134
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ee4856d51848d3a24e5e55402ad56
+      internalID: 1037745185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_50
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 135
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c118037c9c5d44dcb9a6aa0fe8d73f2d
+      internalID: 1905150652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05add8a7242c432e941134680472fca
+      internalID: -1737336832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c32f0d83529b401698393122d29265a
+      internalID: -31228495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_53
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76558e3718c7e47169dde8a9b2f02adb
+      internalID: -438653889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_54
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 133
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f4af313832e449e9d4b09883e4006f
+      internalID: 97937552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_55
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 133
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c68286be8954bc48b6bf00e5abaaba
+      internalID: -1296398693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_56
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 134
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a31f833383947749fa008caaf1da31
+      internalID: -1816463846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 134
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778a5de64fb9148b4bd31bc83985b4da
+      internalID: -138187640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a16c47f30049b0a5c0ab4202e8cc1
+      internalID: 172159255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_59
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77105655cd7bc413a8cbafcab1a76218
+      internalID: -114399114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_60
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 110
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7baeea2a01e4a95894b3e9adf998d9
+      internalID: -967423667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccee0775e779482a8103cfe8f8ec6c8
+      internalID: 1363106348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 110
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a765f68e358204855985f4229b30db90
+      internalID: -1051626975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 110
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663d9ee28ae8c4c6798b8c4569cf1934
+      internalID: 977736851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_64
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 103
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfb48964c097422c96ef4b50f636d03
+      internalID: 1671496407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_65
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 103
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5dbe030464246619e786b4039c3f78
+      internalID: 1454915556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 110
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ae3dd0318514f649e345236886c5e8
+      internalID: 1851576445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_67
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 110
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443b3634463f141bf9d479c054b269a9
+      internalID: 142909382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_68
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 110
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53911dfa7e24be69b39be2ed9ad2ee
+      internalID: -1957266155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_69
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 109
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120354e5028f446eeb190ed7dd9f25e1
+      internalID: -1606492682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 85
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c354b8d084e947e1b37c78da2a7598f
+      internalID: 743095661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 85
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b599a783d48d44b9bfc924eb718322c
+      internalID: 966867090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_72
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 78
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356ede9e0c9a34776a5cfdaab85c17c6
+      internalID: 640804418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_73
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 78
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf93e125b9a94c81be5a3efa9ef4a71
+      internalID: 1623794098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 86
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aa63bb521cc4fdda84f03a2159b7b9
+      internalID: -638321858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 86
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c6db5ebb3944299d370a4cce572dd
+      internalID: 223009558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_76
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 85
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9242f0bfb30d142e392566a5eb2759aa
+      internalID: 1707289535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_77
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 85
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e92a777dc51418c8935996dbc315fb
+      internalID: -28170451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 78
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee6751dc0e9f400a906cc1b0e3100f9
+      internalID: -2089049278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_79
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 78
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332612e9e700e4f91817525183014e1b
+      internalID: 1082581116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_80
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 85
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305ded871424a0b99b5a6f31d237d8
+      internalID: -779560548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_81
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 85
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8c5ef9859c745a699b3f186c6d6daf
+      internalID: -1048120960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_82
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 54
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5127c2ebd7c0f465cbd9c0fff7237f3c
+      internalID: 1728709439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_83
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 60
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55bb6228c456448a94cef191b9e06d6
+      internalID: -904709241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_84
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 59
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6935aaa0ac148afb31b8ecdcdd8d20
+      internalID: -696966010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_85
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 61
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16482c6ed7b754ad9892afa21783df0f
+      internalID: 1519693428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_86
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 60
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cbbf4fafafb4b3883ec3912fa0abbe
+      internalID: 1171743587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_87
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 59
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79497c733352147acbaa07e0e9401559
+      internalID: 211555882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_88
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 58
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be949b368427b4131bef3d9ee6d6cc13
+      internalID: 175607596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_89
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 54
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b5a8d3595ec4b53a235a3a5fa2c100
+      internalID: -1460523670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_90
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 54
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f127ac70d8cd944a7a1989fe7f8ad6e6
+      internalID: 981887834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_91
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 54
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b9a54310cf24f3e9c352c191ee5d34
+      internalID: 101601454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_92
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 53
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bc5db0b07784987b6f20110ab301f7
+      internalID: 1732605563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 54
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c4f392162524d35857f836b62d73d1
+      internalID: 954080807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_94
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c2bc3d4df0460099139aa4ad061a9
+      internalID: 1999868447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_95
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900286dbb378b47459d9121eb56e893d
+      internalID: 1602865756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_96
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 38
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655924af41f6b4635924bb48d63e5d93
+      internalID: -525847418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_97
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 37
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636e57283759a49aaae2edd6cfa041d3
+      internalID: 2065367067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_98
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 38
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a7bc2afa0dd41c9ad099a9ff224bed
+      internalID: -1545057675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d06d1e58eb04b1ca8f2ef4f207d45d
+      internalID: -1578736890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_100
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 34
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2eb6a033a6748f884e54f2ed1acd59
+      internalID: 1901597455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_101
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 34
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb6b06ead796491bb4f9f5b6c079a48
+      internalID: 1948198349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_102
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 37
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633c20e1a3bda4c6dad65b2ee30fd336
+      internalID: -561276165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_103
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 37
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4868ec5ee87874424b8544d83cbc88b2
+      internalID: 1736254797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_104
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 37
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5657777323d3e498d8947c8feeb8b147
+      internalID: 1027966172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_105
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 37
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb7e67ec768c4c02a63dd7802984236
+      internalID: 1827656921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_106
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 10
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4769df216a4d539023f2d9f9c14c6
+      internalID: -1601179632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 9
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb48377737484d1b9d3bf708d9a3c8a
+      internalID: 1892803200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_108
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 14
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b709ba5e5ca43c7925b19df614debb
+      internalID: 1308997736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_109
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 14
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6737b7bf4441043ccab74212d11e4217
+      internalID: -232538277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_110
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 14
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd6cd2e8e85b4aa6ac41a5d3210f822
+      internalID: 76645092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_111
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 14
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74176b8bda6d4576a31e07a0e3561c9
+      internalID: 59064905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_112
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 12
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a8f1c86db784d72ba4147509d2189b
+      internalID: 203957674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_113
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 12
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b98972ef8d3945d2b15b3dbe0f4a0e6
+      internalID: -1775795517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_114
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527af1dfa404740cb88f1aee03fef426
+      internalID: 700945124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_115
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710037701fe384591aacd26aa207d0f7
+      internalID: 1619998013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_116
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 13
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb70a47c71a9487e90e23f275c2570a
+      internalID: 875558088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Death Road To Canada - Hats_117
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 12
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679c5e5180fcb4e4e992d91ceb3553ef
+      internalID: 961585374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Death Road To Canada - Hats_27: 757169602
+      PC Computer - Death Road To Canada - Hats_100: 1901597455
+      PC Computer - Death Road To Canada - Hats_9: 1375610912
+      PC Computer - Death Road To Canada - Hats_102: -561276165
+      PC Computer - Death Road To Canada - Hats_0: 1955177500
+      PC Computer - Death Road To Canada - Hats_33: 429690668
+      PC Computer - Death Road To Canada - Hats_108: 1308997736
+      PC Computer - Death Road To Canada - Hats_12: 1483701364
+      PC Computer - Death Road To Canada - Hats_46: 141183926
+      PC Computer - Death Road To Canada - Hats_115: 1619998013
+      PC Computer - Death Road To Canada - Hats_76: 1707289535
+      PC Computer - Death Road To Canada - Hats_29: 502583737
+      PC Computer - Death Road To Canada - Hats_72: 640804418
+      PC Computer - Death Road To Canada - Hats_1: 822125614
+      PC Computer - Death Road To Canada - Hats_74: -638321858
+      PC Computer - Death Road To Canada - Hats_35: 1207050388
+      PC Computer - Death Road To Canada - Hats_83: -904709241
+      PC Computer - Death Road To Canada - Hats_61: 1363106348
+      PC Computer - Death Road To Canada - Hats_81: -1048120960
+      PC Computer - Death Road To Canada - Hats_14: 1103338433
+      PC Computer - Death Road To Canada - Hats_69: -1606492682
+      PC Computer - Death Road To Canada - Hats_96: -525847418
+      PC Computer - Death Road To Canada - Hats_84: -696966010
+      PC Computer - Death Road To Canada - Hats_42: -2139692149
+      PC Computer - Death Road To Canada - Hats_114: 700945124
+      PC Computer - Death Road To Canada - Hats_110: 76645092
+      PC Computer - Death Road To Canada - Hats_7: 1790893314
+      PC Computer - Death Road To Canada - Hats_20: -381705655
+      PC Computer - Death Road To Canada - Hats_95: 1602865756
+      PC Computer - Death Road To Canada - Hats_75: 223009558
+      PC Computer - Death Road To Canada - Hats_10: 1401608476
+      PC Computer - Death Road To Canada - Hats_8: -1725406843
+      PC Computer - Death Road To Canada - Hats_16: 314186161
+      PC Computer - Death Road To Canada - Hats_51: -1737336832
+      PC Computer - Death Road To Canada - Hats_94: 1999868447
+      PC Computer - Death Road To Canada - Hats_103: 1736254797
+      PC Computer - Death Road To Canada - Hats_63: 977736851
+      PC Computer - Death Road To Canada - Hats_18: 603484091
+      PC Computer - Death Road To Canada - Hats_19: 1464049883
+      PC Computer - Death Road To Canada - Hats_97: 2065367067
+      PC Computer - Death Road To Canada - Hats_117: 961585374
+      PC Computer - Death Road To Canada - Hats_71: 966867090
+      PC Computer - Death Road To Canada - Hats_111: 59064905
+      PC Computer - Death Road To Canada - Hats_52: -31228495
+      PC Computer - Death Road To Canada - Hats_87: 211555882
+      PC Computer - Death Road To Canada - Hats_47: 1001388296
+      PC Computer - Death Road To Canada - Hats_38: -711246521
+      PC Computer - Death Road To Canada - Hats_43: 637874819
+      PC Computer - Death Road To Canada - Hats_60: -967423667
+      PC Computer - Death Road To Canada - Hats_89: -1460523670
+      PC Computer - Death Road To Canada - Hats_91: 101601454
+      PC Computer - Death Road To Canada - Hats_101: 1948198349
+      PC Computer - Death Road To Canada - Hats_45: 1827331852
+      PC Computer - Death Road To Canada - Hats_49: 1037745185
+      PC Computer - Death Road To Canada - Hats_31: -1540118635
+      PC Computer - Death Road To Canada - Hats_21: -304756499
+      PC Computer - Death Road To Canada - Hats_50: 1905150652
+      PC Computer - Death Road To Canada - Hats_116: 875558088
+      PC Computer - Death Road To Canada - Hats_88: 175607596
+      PC Computer - Death Road To Canada - Hats_109: -232538277
+      PC Computer - Death Road To Canada - Hats_93: 954080807
+      PC Computer - Death Road To Canada - Hats_6: -1317099125
+      PC Computer - Death Road To Canada - Hats_104: 1027966172
+      PC Computer - Death Road To Canada - Hats_62: -1051626975
+      PC Computer - Death Road To Canada - Hats_13: 173131126
+      PC Computer - Death Road To Canada - Hats_67: 142909382
+      PC Computer - Death Road To Canada - Hats_85: 1519693428
+      PC Computer - Death Road To Canada - Hats_64: 1671496407
+      PC Computer - Death Road To Canada - Hats_30: -1144596344
+      PC Computer - Death Road To Canada - Hats_48: 1193717544
+      PC Computer - Death Road To Canada - Hats_86: 1171743587
+      PC Computer - Death Road To Canada - Hats_113: -1775795517
+      PC Computer - Death Road To Canada - Hats_28: 2080533332
+      PC Computer - Death Road To Canada - Hats_98: -1545057675
+      PC Computer - Death Road To Canada - Hats_15: -174654120
+      PC Computer - Death Road To Canada - Hats_34: 2082789396
+      PC Computer - Death Road To Canada - Hats_53: -438653889
+      PC Computer - Death Road To Canada - Hats_5: -2023215462
+      PC Computer - Death Road To Canada - Hats_37: 1133623778
+      PC Computer - Death Road To Canada - Hats_90: 981887834
+      PC Computer - Death Road To Canada - Hats_112: 203957674
+      PC Computer - Death Road To Canada - Hats_36: -821313007
+      PC Computer - Death Road To Canada - Hats_55: -1296398693
+      PC Computer - Death Road To Canada - Hats_73: 1623794098
+      PC Computer - Death Road To Canada - Hats_25: 1543357219
+      PC Computer - Death Road To Canada - Hats_77: -28170451
+      PC Computer - Death Road To Canada - Hats_106: -1601179632
+      PC Computer - Death Road To Canada - Hats_65: 1454915556
+      PC Computer - Death Road To Canada - Hats_44: 1245526471
+      PC Computer - Death Road To Canada - Hats_59: -114399114
+      PC Computer - Death Road To Canada - Hats_54: 97937552
+      PC Computer - Death Road To Canada - Hats_107: 1892803200
+      PC Computer - Death Road To Canada - Hats_70: 743095661
+      PC Computer - Death Road To Canada - Hats_56: -1816463846
+      PC Computer - Death Road To Canada - Hats_3: -1673044526
+      PC Computer - Death Road To Canada - Hats_80: -779560548
+      PC Computer - Death Road To Canada - Hats_2: 755567348
+      PC Computer - Death Road To Canada - Hats_23: 123602160
+      PC Computer - Death Road To Canada - Hats_58: 172159255
+      PC Computer - Death Road To Canada - Hats_82: 1728709439
+      PC Computer - Death Road To Canada - Hats_17: 866727965
+      PC Computer - Death Road To Canada - Hats_26: -373832116
+      PC Computer - Death Road To Canada - Hats_79: 1082581116
+      PC Computer - Death Road To Canada - Hats_22: -1292035947
+      PC Computer - Death Road To Canada - Hats_99: -1578736890
+      PC Computer - Death Road To Canada - Hats_78: -2089049278
+      PC Computer - Death Road To Canada - Hats_68: -1957266155
+      PC Computer - Death Road To Canada - Hats_4: 979602552
+      PC Computer - Death Road To Canada - Hats_92: 1732605563
+      PC Computer - Death Road To Canada - Hats_40: 2087934481
+      PC Computer - Death Road To Canada - Hats_39: 51598711
+      PC Computer - Death Road To Canada - Hats_11: 172584005
+      PC Computer - Death Road To Canada - Hats_57: -138187640
+      PC Computer - Death Road To Canada - Hats_66: 1851576445
+      PC Computer - Death Road To Canada - Hats_32: -1202097465
+      PC Computer - Death Road To Canada - Hats_105: 1827656921
+      PC Computer - Death Road To Canada - Hats_24: -1385076704
+      PC Computer - Death Road To Canada - Hats_41: 1718242197
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
