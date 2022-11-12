@@ -8,6 +8,8 @@ public class ShopTrigger : MonoBehaviour
     [SerializeField]
     string playerTag = "Player";
 
+    public Shop shop;
+
     private bool isOn = false;
 
     void ShowUI(bool shouldShow)
@@ -20,6 +22,7 @@ public class ShopTrigger : MonoBehaviour
     {
         if (shopUI == null || !collision.CompareTag(playerTag))
             return;
+        shop.customer = collision.GetComponent<IShopCustomer>();
         ShowUI(true);
     }
 
